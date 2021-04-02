@@ -1,0 +1,16 @@
+.headerContainer {
+  background-color: #f05945;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100px;
+  width: 100vw;
+}
+
+.headerTitle {
+  text-transform: uppercase;
+  font-weight: bold;
+  letter-spacing: 1.2px;
+  font-size: 40px;
+  color: white;
+}
